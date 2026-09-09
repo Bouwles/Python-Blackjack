@@ -1,5 +1,10 @@
 # Blackjack (Python + Tkinter)
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
+[![License](https://img.shields.io/github/license/Bouwles/Python-Blackjack?style=for-the-badge&color=16a34a)](LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/Bouwles/Python-Blackjack?style=for-the-badge&color=16a34a)](https://github.com/Bouwles/Python-Blackjack/commits)
+
+
 A desktop Blackjack game built with Python using the Tkinter GUI toolkit.  
 The project includes animated card dealing, a custom-drawn card system, and a casino-style interface.
 
