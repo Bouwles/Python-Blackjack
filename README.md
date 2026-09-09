@@ -132,3 +132,7 @@ When the program launches:
 3. Choose **STAND** to end your turn and allow the dealer to play.
 
 The result will be displayed once the round finishes.
+
+## License
+
+MIT — see [LICENSE](LICENSE).
